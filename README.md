@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Convert-To's GitHub stats](https://github-readme-stats.vercel.app/api?username=Convert-To&hide=issues,contribs&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Convert-To&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
