@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| [![Convert-To's GitHub stats](https://github-readme-stats.vercel.app/api?username=Convert-To&hide=issues,contribs&show_icons=true&theme=apprentice&card_width=400)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Convert-To&layout=compact&theme=apprentice&card_width=400)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Convert-To&hide=issues,contribs&show_icons=true&theme=apprentice"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Convert-To&layout=compact&theme=apprentice"/>
+</p>
