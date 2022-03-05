@@ -63,5 +63,4 @@
 </details>
 <br />
 
-![](https://visitor-badge.laobi.icu/badge?page_id=convert-to.convert-to)
-![](https://komarev.com/ghpvc/?username=Convert-To&style=flat-square&label=Views)
+![](https://komarev.com/ghpvc/?username=Convert-To&style=flat-square&label=views)
