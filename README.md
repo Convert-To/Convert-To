@@ -4,7 +4,7 @@
 
 <b>stats</b>
 
-| <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Convert-To&hide=issues,contribs&show_icons=true&theme=apprentice"/> | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Convert-To&layout=compact&theme=apprentice&langs_count=6&hide_title=true" /> |
+| <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Convert-To&hide=issues,contribs&show_icons=true&theme=apprentice"/> | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Convert-To&layout=compact&theme=apprentice&langs_count=6&hide_title=true&hide=ASL" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br/>
